@@ -118,7 +118,7 @@ just hide the namespace internal. everything is left is safe to use
                 a = a_b + 5;
                 // storing in d.data()
                 ctx.store( a, 3);
-            }
+            });
 
 
 
