@@ -1,2 +1,2 @@
 # vectorclass_ext
-Extension header for Agnar's SIMD vectorclass
+Extension header for Agner Fog's SIMD vectorclass

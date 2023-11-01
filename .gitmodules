@@ -1,0 +1,3 @@
+[submodule "agner-fog_vectorclass"]
+	path = agner-fog_vectorclass
+	url = https://github.com/vectorclass/version2.git
